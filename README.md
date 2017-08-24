@@ -28,22 +28,45 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * Ipython notebook, Video
   
-## Topic 3: Natural Language Processing
-* Introduction to NLP
-* Lexical analysis
-* Syntax analysis
-* Other topics in NLP
-* R Example
+## Topic 3: Novelty Detection
+* Novelty detection: Overview
+* Density-based novelty detection
+* Distance/Reconstruction-based novelty detection
+* Boundary-based novelty detection
+* Applications
+* Tutorial 8: Density-based novelty detection
+  * Ipython notebook, Video
+* Tutorial 9: Distance/Reconstruction-based novelty detection
+  * Ipython notebook, Video
+* Tutorial 10: Boundary-based novelty detection
+  * Ipython notebook, Video
+  
+## Topic 4: Ensemble Learning
+* Motivation and theoretical backgrounds
+* Bagging
+* Boosting: AdaBoost, Gradient Boosting
+* Tree-based Ensemble: Random Forests, Decision Jungle
+* Tutorial 11: Bagging
+  * Ipython notebook, Video
+* Tutorial 12: AdaBoost, Gradient Boosting
+  * Ipython notebook, Video
+* Tutorial 13: Random Forests, Decision Jungle
+  * Ipython notebook, Video
 
-## Topic 4: Document representation
-* Bag of words
-* Word weighting
-* N-grams
-* Distributed representations
-* R Example
-
-## Topic 5: Document summarization
-* Word could
-* Association rules
-* Network representation
-* R Example
+## Topic 5: Semi-supervised Learning
+* Overview
+* Self-training
+* Generative models
+* Semi-supervised SVM
+* Graph-based SSL
+* Multi-view algorithm (Co-training)
+* Tutorial 14: Self-training
+  * Ipython notebook, Video
+* Tutorial 15: Generative models
+  * Ipython notebook, Video
+* Tutorial 16: Semi-supervised SVM
+  * Ipython notebook, Video
+* Tutorial 17: Graph-based SSL
+  * Ipython notebook, Video
+* Tutorial 18: Multi-view algorithm (Co-training)
+  * Ipython notebook, Video
