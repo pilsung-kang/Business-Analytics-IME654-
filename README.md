@@ -7,12 +7,27 @@ Course homepage for "Business Analytics" @Korea University
 * Supervised Methods: Forward selection, Backward elimination, Stepwise selection, Genetic algorithm
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
-* Tutorial 1: 
+* Tutorial 1: Supervised Method
+  * Ipython notebook, Video
+* Tutorial 2: Unsupervised Method (Linear embedding)
+  * Ipython notebook, Video
+* Tutorial 3: Unsupervised Method (Nonlinear embedding)
 
-## Topic 2: From Texts to Data
-* Obtain texts to analyze
-* From text files, databases, Facebook APIs, and Web scraping
-
+## Topic 2: Kernel-based Learning
+* Theoretical foundation
+* Support Vector Machine (SVM)
+* Support Vector Regression (SVR)
+* Kernel Fisher Discriminant Analysis (KFDA)
+* Kernel Principal Component Analysis (KPCA)
+* Tutorial 4: Support Vector Machine (SVM)
+  * Ipython notebook, Video
+* Tutorial 5: Support Vector Regression (SVR)
+  * Ipython notebook, Video
+* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
+  * Ipython notebook, Video
+* Tutorial 7: Kernel Principal Component Analysis (KPCA)
+  * Ipython notebook, Video
+  
 ## Topic 3: Natural Language Processing
 * Introduction to NLP
 * Lexical analysis
