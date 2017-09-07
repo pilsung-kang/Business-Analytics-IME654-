@@ -1,6 +1,11 @@
 # Business-Analytics
 Course homepage for "Business Analytics" @Korea University
 
+## Notice
+* Course syllabus: [download](https://www.dropbox.com/s/69lnkaoc19nemft/2017_2_Business%20Analytics.pdf?dl=0)
+* [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
+* [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
+
 ## Schedule
 ## Topic 1: Dimensionality Reduction
 * Dimensionality Reduction: Overview
