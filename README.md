@@ -17,7 +17,8 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 2: Unsupervised Method (Linear embedding) (정재윤)
   * Ipython notebook, Video
 * Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완)
-
+  * IPython notebook, Video
+  
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
 * Support Vector Machine (SVM)
