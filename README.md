@@ -13,7 +13,7 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method (장명준)
-  * Ipython notebook, Video
+ * Ipython notebook, Video
 * Tutorial 2: Unsupervised Method (Linear embedding) (정재윤)
   * Ipython notebook, Video
 * Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완)
