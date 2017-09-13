@@ -12,11 +12,11 @@ Course homepage for "Business Analytics" @Korea University
 * Supervised Methods: Forward selection, Backward elimination, Stepwise selection, Genetic algorithm
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
-* Tutorial 1: Supervised Method
+* Tutorial 1: Supervised Method (장명준)
+  * Ipython notebook, Video
+* Tutorial 2: Unsupervised Method (Linear embedding) (정재윤)
   * Ipython notebook, Video
-* Tutorial 2: Unsupervised Method (Linear embedding)
-  * Ipython notebook, Video
-* Tutorial 3: Unsupervised Method (Nonlinear embedding)
+* Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완)
 
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
@@ -24,13 +24,13 @@ Course homepage for "Business Analytics" @Korea University
 * Support Vector Regression (SVR)
 * Kernel Fisher Discriminant Analysis (KFDA)
 * Kernel Principal Component Analysis (KPCA)
-* Tutorial 4: Support Vector Machine (SVM)
+* Tutorial 4: Support Vector Machine (SVM) (성유연)
   * Ipython notebook, Video
-* Tutorial 5: Support Vector Regression (SVR)
+* Tutorial 5: Support Vector Regression (SVR) (이민정)
   * Ipython notebook, Video
-* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
+* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상)
   * Ipython notebook, Video
-* Tutorial 7: Kernel Principal Component Analysis (KPCA)
+* Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율)
   * Ipython notebook, Video
   
 ## Topic 3: Novelty Detection
