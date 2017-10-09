@@ -14,9 +14,9 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method (장명준)
   * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-* Tutorial 2: Unsupervised Method (Linear embedding) (정재윤)
+* Tutorial 2: Unsupervised Method (Linear embedding) (정재윤, due: 10/18)
   * Ipython notebook, Video
-* Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완)
+* Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완, due: 10/25)
   * IPython notebook, Video
   
 ## Topic 2: Kernel-based Learning
@@ -25,7 +25,7 @@ Course homepage for "Business Analytics" @Korea University
 * Support Vector Regression (SVR)
 * Kernel Fisher Discriminant Analysis (KFDA)
 * Kernel Principal Component Analysis (KPCA)
-* Tutorial 4: Support Vector Machine (SVM) (성유연)
+* Tutorial 4: Support Vector Machine (SVM) (성유연, due: 11/01)
   * Ipython notebook, Video
 * Tutorial 5: Support Vector Regression (SVR) (이민정)
   * Ipython notebook, Video
