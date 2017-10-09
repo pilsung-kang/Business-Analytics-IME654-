@@ -17,7 +17,7 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 2: Unsupervised Method (Linear embedding) (정재윤, due: 10/18)
   * Ipython notebook, Video
 * Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완, due: 10/25)
-  * IPython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
   
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
