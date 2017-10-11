@@ -16,7 +16,8 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
   * [Evaluation](https://goo.gl/forms/6HU0F79SKJxMXdrZ2) (Due: 10/18)
 * Tutorial 2: Unsupervised Method (Linear embedding) (정재윤, due: 10/18)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2)
+  * [Evaluation](https://goo.gl/forms/bzJkSfNTT9sZoEkj1) (Due: 11/01)
 * Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완, due: 10/25)
   * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
   * [Evaluation](https://goo.gl/forms/zl39gkY7UIpNKFzI2) (Due: 11/08)
