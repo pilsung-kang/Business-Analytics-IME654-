@@ -14,10 +14,12 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method (장명준)
   * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Evaluation](https://goo.gl/forms/6HU0F79SKJxMXdrZ2) (Due: 10/18)
 * Tutorial 2: Unsupervised Method (Linear embedding) (정재윤, due: 10/18)
   * Ipython notebook, Video
 * Tutorial 3: Unsupervised Method (Nonlinear embedding) (서승완, due: 10/25)
-  * IPython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Evaluation](https://goo.gl/forms/zl39gkY7UIpNKFzI2) (Due: 11/08)
   
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
@@ -40,11 +42,11 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based novelty detection
 * Model-based novelty detection
 * Applications
-* Tutorial 8: Density-based novelty detection
+* Tutorial 8: Density-based novelty detection (전창동, 오주혁)
   * Ipython notebook, Video
-* Tutorial 9: Distance/Reconstruction-based novelty detection
+* Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈)
   * Ipython notebook, Video
-* Tutorial 10: Model-based novelty detection
+* Tutorial 10: Model-based novelty detection (송서하, 최현율)
   * Ipython notebook, Video
   
 ## Topic 4: Ensemble Learning
