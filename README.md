@@ -30,11 +30,11 @@ Course homepage for "Business Analytics" @Korea University
 * Kernel Principal Component Analysis (KPCA)
 * Tutorial 4: Support Vector Machine (SVM) (성유연, due: 11/01)
   * Ipython notebook, Video
-* Tutorial 5: Support Vector Regression (SVR) (이민정)
+* Tutorial 5: Support Vector Regression (SVR) (이민정, due: 11/08)
   * Ipython notebook, Video
-* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상)
+* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상, due: 11/08)
   * Ipython notebook, Video
-* Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율)
+* Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율, due: 11/08)
   * Ipython notebook, Video
   
 ## Topic 3: Novelty Detection
