@@ -44,7 +44,7 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based novelty detection
 * Model-based novelty detection
 * Applications
-* Tutorial 8: Density-based novelty detection (전창동, 오주혁)
+* Tutorial 8: Density-based novelty detection (전창동, 오주혁, due: 11/22)
   * Ipython notebook, Video
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈)
   * Ipython notebook, Video
