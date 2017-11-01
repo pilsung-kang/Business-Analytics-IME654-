@@ -29,12 +29,13 @@ Course homepage for "Business Analytics" @Korea University
 * Kernel Fisher Discriminant Analysis (KFDA)
 * Kernel Principal Component Analysis (KPCA)
 * Tutorial 4: Support Vector Machine (SVM) (성유연, due: 11/01)
+  * [Tutorial Video](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4)
+  * [Evaluation](https://docs.google.com/forms/d/1_nUApELCz_QVO7kRA7mQAZqKTpDtEP0saOXw8O5woiM/edit) (Due: 11/15)
+* Tutorial 5: Support Vector Regression (SVR) (이민정, due: 11/08)
   * Ipython notebook, Video
-* Tutorial 5: Support Vector Regression (SVR) (이민정)
+* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상, due: 11/08)
   * Ipython notebook, Video
-* Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상)
-  * Ipython notebook, Video
-* Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율)
+* Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율, due: 11/08)
   * Ipython notebook, Video
   
 ## Topic 3: Novelty Detection
@@ -43,7 +44,7 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based novelty detection
 * Model-based novelty detection
 * Applications
-* Tutorial 8: Density-based novelty detection (전창동, 오주혁)
+* Tutorial 8: Density-based novelty detection (전창동, 오주혁, due: 11/22)
   * Ipython notebook, Video
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈)
   * Ipython notebook, Video
