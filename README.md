@@ -32,11 +32,14 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4)
   * [Evaluation](https://docs.google.com/forms/d/1_nUApELCz_QVO7kRA7mQAZqKTpDtEP0saOXw8O5woiM/edit) (Due: 11/15)
 * Tutorial 5: Support Vector Regression (SVR) (이민정, due: 11/08)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Evaluation](https://docs.google.com/forms/d/1HWVDgKUf7FAAG5UHdJoyV3G2MhDI6u7pfCMIx4LVRZU/edit) (Due: 11/29)
 * Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA) (조윤상, due: 11/08)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6)
+  * [Evaluation](https://docs.google.com/forms/d/1VZAXDUUmboFqX9b2B7wGoLkEaBQ05kyugfkAuCSkZP0/edit) (Due: 11/29)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA) (채선율, due: 11/08)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7)
+  * [Evaluation](https://docs.google.com/forms/d/1rdWt9GTt6b0UwNFxVq-isftdvJ95FP41B9GKPVQ1_iU/edit) (Due: 11/29)
   
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
@@ -56,11 +59,11 @@ Course homepage for "Business Analytics" @Korea University
 * Bagging
 * Boosting: AdaBoost, Gradient Boosting
 * Tree-based Ensemble: Random Forests, Decision Jungle
-* Tutorial 11: Bagging
+* Tutorial 11: Bagging (이주한)
   * Ipython notebook, Video
-* Tutorial 12: AdaBoost, Gradient Boosting
+* Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영)
   * Ipython notebook, Video
-* Tutorial 13: Random Forests, Decision Jungle
+* Tutorial 13: Random Forests, Decision Jungle (임희찬, 이준헌)
   * Ipython notebook, Video
 
 ## Topic 5: Semi-supervised Learning
@@ -70,13 +73,11 @@ Course homepage for "Business Analytics" @Korea University
 * Semi-supervised SVM
 * Graph-based SSL
 * Multi-view algorithm (Co-training)
-* Tutorial 14: Self-training
+* Tutorial 14: Self-training (김우일)
+  * Ipython notebook, Video
+* Tutorial 15: Generative models (강성호)
   * Ipython notebook, Video
-* Tutorial 15: Generative models
+* Tutorial 16: Graph-based SSL (안건이)
   * Ipython notebook, Video
-* Tutorial 16: Semi-supervised SVM
-  * Ipython notebook, Video
-* Tutorial 17: Graph-based SSL
-  * Ipython notebook, Video
-* Tutorial 18: Multi-view algorithm (Co-training)
+* Tutorial 17: Multi-view algorithm (Co-training) (권상현)
   * Ipython notebook, Video
