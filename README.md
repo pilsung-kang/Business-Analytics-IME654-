@@ -48,7 +48,8 @@ Course homepage for "Business Analytics" @Korea University
 * Model-based novelty detection
 * Applications
 * Tutorial 8: Density-based novelty detection (전창동, 오주혁, due: 11/22)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8)
+  * [Evaluation](https://goo.gl/forms/F7nJssUU6DJifRSx2) (Due: 12/06)
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈, due: 11/29)
   * Ipython notebook, Video
 * Tutorial 10: Model-based novelty detection (송서하, 최현율, due: 11/29)
@@ -63,7 +64,7 @@ Course homepage for "Business Analytics" @Korea University
   * Ipython notebook, Video
 * Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영)
   * Ipython notebook, Video
-* Tutorial 13: Random Forests, Decision Jungle (임희찬, 이준헌)
+* Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
   * Ipython notebook, Video
 
 ## Topic 5: Semi-supervised Learning
@@ -74,10 +75,10 @@ Course homepage for "Business Analytics" @Korea University
 * Graph-based SSL
 * Multi-view algorithm (Co-training)
 * Tutorial 14: Self-training (김우일)
-  * Ipython notebook, Video
+  * Ipython notebook, Video
 * Tutorial 15: Generative models (강성호)
   * Ipython notebook, Video
 * Tutorial 16: Graph-based SSL (안건이)
   * Ipython notebook, Video
-* Tutorial 17: Multi-view algorithm (Co-training) (권상현)
+* Tutorial 17: Multi-view algorithm (Co-training) (이준헌)
   * Ipython notebook, Video
