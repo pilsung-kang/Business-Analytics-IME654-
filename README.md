@@ -52,8 +52,10 @@ Course homepage for "Business Analytics" @Korea University
   * [Evaluation](https://goo.gl/forms/F7nJssUU6DJifRSx2) (Due: 12/06)
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈, due: 11/29)
   * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Evaluation](https://goo.gl/forms/n7uKrwZx8uai4N863) (Due: 12/13)
 * Tutorial 10: Model-based novelty detection (송서하, 최현율, due: 11/29)
   * [Tutorial Video](https://www.youtube.com/watch?v=5owp4xPDQNA&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10)
+  * [Evaluation](https://goo.gl/forms/lr1XWAU7CrM9hkhr2) (Due: 12/13)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
