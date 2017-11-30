@@ -51,20 +51,22 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8)
   * [Evaluation](https://goo.gl/forms/F7nJssUU6DJifRSx2) (Due: 12/06)
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈, due: 11/29)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Evaluation](https://goo.gl/forms/n7uKrwZx8uai4N863) (Due: 12/13)
 * Tutorial 10: Model-based novelty detection (송서하, 최현율, due: 11/29)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=5owp4xPDQNA&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10)
+  * [Evaluation](https://goo.gl/forms/lr1XWAU7CrM9hkhr2) (Due: 12/13)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
 * Bagging
 * Boosting: AdaBoost, Gradient Boosting
 * Tree-based Ensemble: Random Forests, Decision Jungle
-* Tutorial 11: Bagging (이주한)
+* Tutorial 11: Bagging (이주한, due: 12/6)
   * Ipython notebook, Video
-* Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영)
+* Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영, due: 12/13)
   * Ipython notebook, Video
-* Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
+* Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현, due: 12/13)
   * Ipython notebook, Video
 
 ## Topic 5: Semi-supervised Learning
@@ -74,9 +76,9 @@ Course homepage for "Business Analytics" @Korea University
 * Semi-supervised SVM
 * Graph-based SSL
 * Multi-view algorithm (Co-training)
-* Tutorial 14: Self-training (김우일)
+* Tutorial 14: Self-training (김우일, due: 12/20)
   * Ipython notebook, Video
-* Tutorial 15: Generative models (강성호)
+* Tutorial 15: Generative models (강성호, due: 12/20)
   * Ipython notebook, Video
 * Tutorial 16: Graph-based SSL (안건이)
   * Ipython notebook, Video
