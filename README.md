@@ -80,7 +80,7 @@ Course homepage for "Business Analytics" @Korea University
   * Ipython notebook, Video
 * Tutorial 15: Generative models (강성호, due: 12/20)
   * Ipython notebook, Video
-* Tutorial 16: Graph-based SSL (안건이)
+* Tutorial 16: Graph-based SSL (안건이, due: 12/27)
   * Ipython notebook, Video
-* Tutorial 17: Multi-view algorithm (Co-training) (이준헌)
+* Tutorial 17: Multi-view algorithm (Co-training) (이준헌, due: 12/27)
   * Ipython notebook, Video
