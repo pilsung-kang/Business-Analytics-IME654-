@@ -63,7 +63,8 @@ Course homepage for "Business Analytics" @Korea University
 * Boosting: AdaBoost, Gradient Boosting
 * Tree-based Ensemble: Random Forests, Decision Jungle
 * Tutorial 11: Bagging (이주한, due: 12/6)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
+  * Evaluation
 * Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영, due: 12/13)
   * [Tutorial Video](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
   * [Evaluation](https://goo.gl/forms/LQ2IloM5mWqVNXQr1) (Due: 12/27)
