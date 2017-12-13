@@ -64,7 +64,7 @@ Course homepage for "Business Analytics" @Korea University
 * Tree-based Ensemble: Random Forests, Decision Jungle
 * Tutorial 11: Bagging (이주한, due: 12/6)
   * [Tutorial Video](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
-  * Evaluation
+  * [Evaluation](https://goo.gl/forms/8pHnWTrWeJ0Af7Zy2) (due: 12/27)
 * Tutorial 12: AdaBoost, Gradient Boosting (김명소, 송은영, due: 12/13)
   * [Tutorial Video](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
   * [Evaluation](https://goo.gl/forms/LQ2IloM5mWqVNXQr1) (Due: 12/27)
