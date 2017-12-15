@@ -70,7 +70,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Evaluation](https://goo.gl/forms/LQ2IloM5mWqVNXQr1) (Due: 12/27)
 * Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현, due: 12/13)
   * [Tutorial Video](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13)
-  * [Evaluation](https://goo.gl/forms/z8L8VGWDXcpGWJ972)
+  * [Evaluation](https://goo.gl/forms/z8L8VGWDXcpGWJ972)
 
 ## Topic 5: Semi-supervised Learning
 * Overview
