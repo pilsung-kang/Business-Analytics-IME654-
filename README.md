@@ -86,7 +86,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15)
   * [Evaluation](https://goo.gl/forms/5FsjojVvOqEb3io63) (Due: 12/27)
 * Tutorial 16: Graph-based SSL (안건이, due: 12/27)
-  * Ipython notebook, Video
+  * [Tutorial Video](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
 * Tutorial 17: Multi-view algorithm (Co-training) (이준헌, due: 12/27)
   * [Tutorial Video](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
   * [Evaluation](https://goo.gl/forms/4pJEdDUWPpeOucJv2) (Due: 12/31)
