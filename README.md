@@ -36,13 +36,13 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes]() (유초롱, 정민성, Due: 2018-10-30)
 * Tutorial 5: Support Vector Regression (SVR)
   * [Tutorial Video](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (이민정)
-  * [Tutorial Notes]() (이지윤, 이창현)
+  * [Tutorial Notes]() (이지윤, 이창현, , Due: 2018-11-13)
 * Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
   * [Tutorial Video](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6) (조윤상)
-  * [Tutorial Notes]() (송재승, 이민형)
+  * [Tutorial Notes]() (송재승, 이민형, , Due: 2018-11-13)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7) (채선율)
-  * [Tutorial Notes]() (최지은, 이선화)
+  * [Tutorial Notes]() (최지은, 이선화, , Due: 2018-11-13)
   
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
