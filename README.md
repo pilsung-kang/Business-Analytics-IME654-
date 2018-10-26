@@ -18,10 +18,12 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2) (정재윤)
-  * [Tutorial Notes]() (천우진, 이정호, Due: 2018-10-23)
+  * [Tutorial Notes (천우진)](https://wujincheon.github.io/dimensionality/reduction/2018/10/23/welcome-to-jekyll.html)
+  * [Tutorial Notes (이정호)](https://ljhz123.github.io/2018/10/22/PCA+MDS.html)
 * Tutorial 3: Unsupervised Method (Nonlinear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (서승완)
-  * [Tutorial Notes]() (양우식, 손규빈, Due: 2018-10-23)
+  * [Tutorial Notes (양우식)](https://woosikyang.github.io/)
+  * [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
   
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
