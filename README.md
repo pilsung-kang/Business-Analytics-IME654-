@@ -14,7 +14,8 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method
   * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)  (장명준)
-  * [Tutorial Notes]() (최희정, 박경찬, Due: 2018-10-23)
+  * [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/) 
+  * [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2) (정재윤)
   * [Tutorial Notes]() (천우진, 이정호, Due: 2018-10-23)
