@@ -14,13 +14,16 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method
   * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)  (장명준)
-  * [Tutorial Notes]() (최희정, 박경찬, Due: 2018-10-23)
+  * [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/) 
+  * [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2) (정재윤)
-  * [Tutorial Notes]() (천우진, 이정호, Due: 2018-10-23)
+  * [Tutorial Notes (천우진)](https://wujincheon.github.io/dimensionality/reduction/2018/10/23/welcome-to-jekyll.html)
+  * [Tutorial Notes (이정호)](https://ljhz123.github.io/2018/10/22/PCA+MDS.html)
 * Tutorial 3: Unsupervised Method (Nonlinear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (서승완)
-  * [Tutorial Notes]() (양우식, 손규빈, Due: 2018-10-23)
+  * [Tutorial Notes (양우식)](https://woosikyang.github.io/)
+  * [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
   
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
@@ -33,13 +36,13 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes]() (유초롱, 정민성, Due: 2018-10-30)
 * Tutorial 5: Support Vector Regression (SVR)
   * [Tutorial Video](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (이민정)
-  * [Tutorial Notes]() (이지윤, 이창현)
+  * [Tutorial Notes]() (이지윤, 이창현, , Due: 2018-11-13)
 * Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
   * [Tutorial Video](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6) (조윤상)
-  * [Tutorial Notes]() (송재승, 이민형)
+  * [Tutorial Notes]() (송재승, 이민형, , Due: 2018-11-13)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7) (채선율)
-  * [Tutorial Notes]() (최지은, 이선화)
+  * [Tutorial Notes]() (최지은, 이선화, , Due: 2018-11-13)
   
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
