@@ -37,13 +37,13 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes (정민성)](https://ms930.github.io/)
 * Tutorial 5: Support Vector Regression (SVR)
   * [Tutorial Video](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (이민정)
-  * [Tutorial Notes]() (이지윤, 이창현, , Due: 2018-11-13)
+  * [Tutorial Notes]() (이지윤, 이창현, 신유경, Due: 2018-11-20)
 * Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
   * [Tutorial Video](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6) (조윤상)
-  * [Tutorial Notes]() (송재승, 이민형, , Due: 2018-11-13)
+  * [Tutorial Notes]() (송재승, 이민형, 조수희, Due: 2018-11-20)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7) (채선율)
-  * [Tutorial Notes]() (최지은, 이선화, , Due: 2018-11-13)
+  * [Tutorial Notes]() (최지은, 이선화, 홍연정, Due: 2018-11-20)
   
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
@@ -53,10 +53,13 @@ Course homepage for "Business Analytics" @Korea University
 * Applications
 * Tutorial 8: Density-based novelty detection (전창동, 오주혁)
   * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8)
+  * [Tutorial Notes]() (Justus Aaron Benning, 이인구, 음수민, Due: 2018-11-27)
 * Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈)
   * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
 * Tutorial 10: Model-based novelty detection (송서하, 최현율)
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10)
+  * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: )
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
