@@ -59,7 +59,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
 * Tutorial 10: Model-based novelty detection (송서하, 최현율)
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10)
-  * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: )
+  * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: 2018-12-04)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
@@ -68,10 +68,13 @@ Course homepage for "Business Analytics" @Korea University
 * Tree-based Ensemble: Random Forests, Decision Jungle
 * Tutorial 11: Bagging (이주한)
   * [Tutorial Video](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
+  * [Tutorial Notes]() (윤석채, 김문수, 양형원, Due: 2018-12-11)
 * Tutorial 12: AdaBoost, Gradient Boosting (김명소)
   * [Tutorial Video](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
+  * [Tutorial Notes]() (이주현, 황호선, 유건령, Due: 2018-12-11)
 * Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
   * [Tutorial Video](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13)
+  * [Tutorial Notes]() (조영선, 정회빈, 고봉균, Due: )
 
 ## Topic 5: Semi-supervised Learning
 * Overview
