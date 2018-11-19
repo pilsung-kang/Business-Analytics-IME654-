@@ -51,14 +51,14 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based novelty detection
 * Model-based novelty detection
 * Applications
-* Tutorial 8: Density-based novelty detection (전창동, 오주혁)
-  * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8)
+* Tutorial 8: Density-based novelty detection
+  * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8) (전창동, 오주혁)
   * [Tutorial Notes]() (Justus Aaron Benning, 이인구, 음수민, Due: 2018-11-27)
-* Tutorial 9: Distance/Reconstruction-based novelty detection (옥명훈)
-  * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+* Tutorial 9: Distance/Reconstruction-based novelty detection
+  * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (옥명훈)
   * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
-* Tutorial 10: Model-based novelty detection (송서하, 최현율)
-  * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10)
+* Tutorial 10: Model-based novelty detection
+  * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
   * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: 2018-12-04)
   
 ## Topic 4: Ensemble Learning
