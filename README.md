@@ -67,6 +67,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
   * [Tutorial Notes(김영호)](https://dog-k.github.io/Distance_Reconstruction-based-novelty-detection/)
   * [Tutorial Notes(김위백)](https://ba-post-2018.github.io/general/2018/10/26/example-post-three/)
+  * [Tutorial Notes(손주희)](https://almond-hater.github.io/2018/distance-reconstruction-based-ND/)
 
 * Tutorial 10: Model-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
