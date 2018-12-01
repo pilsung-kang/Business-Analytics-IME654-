@@ -87,7 +87,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes]() (이주현, 황호선, 유건령, Due: 2018-12-11)
 * Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
   * [Tutorial Video](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13)
-  * [Tutorial Notes]() (조영선, 정회빈, 고봉균, Due: )
+  * [Tutorial Notes]() (조영선, 정회빈, 고봉균, Due: 2018-12-18)
 
 ## Topic 5: Semi-supervised Learning
 * Overview
@@ -98,9 +98,13 @@ Course homepage for "Business Analytics" @Korea University
 * Multi-view algorithm (Co-training)
 * Tutorial 14: Self-training (김우일)
   * [Tutorial Video](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Tutorial Notes]() (김진국, 김영준, Due: 2018-12-25)
 * Tutorial 15: Generative models (강성호)
   * [Tutorial Video](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15)
+  * [Tutorial Notes]() (강희종, 박건빈, 이효연, Due: 2018-12-25)
 * Tutorial 16: Graph-based SSL (안건이)
   * [Tutorial Video](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Tutorial Notes]() (변준형, 이수빈, 윤도균, Due: 2018-12-25)
 * Tutorial 17: Multi-view algorithm (Co-training) (이준헌)
   * [Tutorial Video](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Tutorial Notes]() (문준, 백인성, 진세종, Due: 2018-12-25)
