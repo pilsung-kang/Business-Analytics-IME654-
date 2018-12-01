@@ -61,6 +61,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8) (전창동, 오주혁)
   * [Tutorial Notes]() (Justus Aaron Benning, 이인구, 음수민, Due: 2018-11-27)
   * [Tutorial Notes(이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/)
+  * [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/)
   
 * Tutorial 9: Distance/Reconstruction-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (옥명훈)
