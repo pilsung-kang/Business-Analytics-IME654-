@@ -18,7 +18,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2) (정재윤)
-  * [Tutorial Notes (천우진)](https://wujincheon.github.io/dimensionality/reduction/2018/10/23/welcome-to-jekyll.html)
+  * [Tutorial Notes (천우진)](https://wujincheon.github.io/wujincheon.github.io/machine%20learning/2018/10/23/pca&mds.html)
   * [Tutorial Notes (이정호)](https://ljhz123.github.io/2018/10/22/PCA+MDS.html)
 * Tutorial 3: Unsupervised Method (Nonlinear embedding)
   * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (서승완)
@@ -59,10 +59,10 @@ Course homepage for "Business Analytics" @Korea University
 * Applications
 * Tutorial 8: Density-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8) (전창동, 오주혁)
-  * [Tutorial Notes]() (Justus Aaron Benning, 이인구, 음수민, Due: 2018-11-27)
   * [Tutorial Notes(이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/)
   * [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/)
-  
+ * [Tutorial Notes(음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
+ 
 * Tutorial 9: Distance/Reconstruction-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (옥명훈)
   * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
@@ -73,6 +73,7 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 10: Model-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
   * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: 2018-12-04)
+  * [Tutorial Notes(윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
