@@ -33,7 +33,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video (조윤상)](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6), [Tutorial Notes (이민형)](https://inoutro.github.io/2018/11/19/Kernel-Fisher-Discriminant-Analysis.html), [Tutorial Notes (송재승)](https://jassong.github.io/kernel/machinelearning/lda/businessanalytics-post/), [Tutorial Notes (조수희)](https://suhee05.github.io/fisher-discriminant/)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video (채선율)](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7), [Tutorial Notes (홍연정)](https://yeonjunghong.github.io/KernelPrincipalComponentAnalysis/), [Tutorial Notes (이선화)](https://seonhwalee.github.io/machinelearning/2018-11-29-kernel-pca/), [Tutorial Notes (최지은)](https://jieunchoi1120.github.io/2018/Kernel-PCA/)
-  
+ 
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
 * Density-based novelty detection
