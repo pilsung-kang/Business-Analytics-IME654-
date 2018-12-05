@@ -72,8 +72,9 @@ Course homepage for "Business Analytics" @Korea University
 
 * Tutorial 10: Model-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
-  * [Tutorial Notes]() (박혜준, 박성훈, 윤혜빈, Due: 2018-12-04)
   * [Tutorial Notes(윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/)
+  * [Tutorial Notes(박혜준](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md)
+  * [Tutorial Notes(박성훈](https://seonghunpark.github.io/2018/ba/)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
