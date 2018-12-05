@@ -13,17 +13,11 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
 * Tutorial 1: Supervised Method
-  * [Tutorial Video](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)  (장명준)
-  * [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/) 
-  * [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
+  * [Tutorial Video (장명준)](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/), [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
-  * [Tutorial Video](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2) (정재윤)
-  * [Tutorial Notes (천우진)](https://wujincheon.github.io/wujincheon.github.io/machine%20learning/2018/10/23/pca&mds.html)
-  * [Tutorial Notes (이정호)](https://ljhz123.github.io/2018/10/22/PCA+MDS.html)
+  * [Tutorial Video (정재윤)](https://www.youtube.com/watch?v=GSdkR53qXpw&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=2), [Tutorial Notes (천우진)](https://wujincheon.github.io/wujincheon.github.io/machine%20learning/2018/10/23/pca&mds.html), [Tutorial Notes (이정호)](https://ljhz123.github.io/2018/10/22/PCA+MDS.html)
 * Tutorial 3: Unsupervised Method (Nonlinear embedding)
-  * [Tutorial Video](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (서승완)
-  * [Tutorial Notes (양우식)](https://woosikyang.github.io/)
-  * [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
+  * [Tutorial Video (서승완)](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (양우식)](https://woosikyang.github.io/), [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
   
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation
@@ -32,24 +26,13 @@ Course homepage for "Business Analytics" @Korea University
 * Kernel Fisher Discriminant Analysis (KFDA)
 * Kernel Principal Component Analysis (KPCA)
 * Tutorial 4: Support Vector Machine (SVM)
-  * [Tutorial Video](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4) (성유연)
-  * [Tutorial Notes (유초롱)](https://zernes.github.io/SVM/)
-  * [Tutorial Notes (정민성)](https://ms930.github.io/)
+  * [Tutorial Video (성유연)](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4), [Tutorial Notes (유초롱)](https://zernes.github.io/SVM/), [Tutorial Notes (정민성)](https://ms930.github.io/)
 * Tutorial 5: Support Vector Regression (SVR)
-  * [Tutorial Video](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (이민정)
-  * [Tutorial Notes (이창현)](https://changhyun-lee.github.io/example/Support-Vector-Machine)
-  * [Tutorial Notes (이지윤)](https://leejiyoon52.github.io/Support-Vecter-Regression/)
-  * [Tutorial Notes (신유경)](https://abi22yk.github.io/2018/11/20/SVR.html)
+  * [Tutorial Video (이민정)](https://www.youtube.com/watch?v=zlv2s_mKdb4&index=5&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (이창현)](https://changhyun-lee.github.io/example/Support-Vector-Machine), [Tutorial Notes (이지윤)](https://leejiyoon52.github.io/Support-Vecter-Regression/), [Tutorial Notes (신유경)](https://abi22yk.github.io/2018/11/20/SVR.html)
 * Tutorial 6: Kernel Fisher Discriminant Analysis (KFDA)
-  * [Tutorial Video](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6) (조윤상)
-  * [Tutorial Notes (이민형)](https://inoutro.github.io/2018/11/19/Kernel-Fisher-Discriminant-Analysis.html)
-  * [Tutorial Notes (송재승)](https://jassong.github.io/kernel/machinelearning/lda/businessanalytics-post/)
-  * [Tutorial Notes (조수희)](https://suhee05.github.io/fisher-discriminant/)
+  * [Tutorial Video (조윤상)](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6), [Tutorial Notes (이민형)](https://inoutro.github.io/2018/11/19/Kernel-Fisher-Discriminant-Analysis.html), [Tutorial Notes (송재승)](https://jassong.github.io/kernel/machinelearning/lda/businessanalytics-post/), [Tutorial Notes (조수희)](https://suhee05.github.io/fisher-discriminant/)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
-  * [Tutorial Video](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7) (채선율)
-  * [Tutorial Notes (홍연정)](https://yeonjunghong.github.io/KernelPrincipalComponentAnalysis/)
-  * [Tutorial Notes (이선화)](https://seonhwalee.github.io/machinelearning/2018-11-29-kernel-pca/)
-  * [Tutorial Notes (최지은)](https://jieunchoi1120.github.io/2018/Kernel-PCA/)
+  * [Tutorial Video (채선율)](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7), [Tutorial Notes (홍연정)](https://yeonjunghong.github.io/KernelPrincipalComponentAnalysis/), [Tutorial Notes (이선화)](https://seonhwalee.github.io/machinelearning/2018-11-29-kernel-pca/), [Tutorial Notes (최지은)](https://jieunchoi1120.github.io/2018/Kernel-PCA/)
   
 ## Topic 3: Novelty Detection
 * Novelty detection: Overview
@@ -58,22 +41,13 @@ Course homepage for "Business Analytics" @Korea University
 * Model-based novelty detection
 * Applications
 * Tutorial 8: Density-based novelty detection
-  * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8) (전창동, 오주혁)
-  * [Tutorial Notes(이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/)
-  * [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/)
-  * [Tutorial Notes(음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
+  * [Tutorial Video (전창동, 오주혁)](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8), [Tutorial Notes (이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/), [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/), [Tutorial Notes (음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
  
 * Tutorial 9: Distance/Reconstruction-based novelty detection
-  * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (옥명훈)
-  * [Tutorial Notes(김영호)](https://dog-k.github.io/Distance_Reconstruction-based-novelty-detection/)
-  * [Tutorial Notes(김위백)](https://ba-post-2018.github.io/general/2018/10/26/example-post-three/)
-  * [Tutorial Notes(손주희)](https://almond-hater.github.io/2018/distance-reconstruction-based-ND/)
+  * [Tutorial Video (옥명훈)](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (김영호)](https://dog-k.github.io/Distance_Reconstruction-based-novelty-detection/), [Tutorial Notes (김위백)](https://ba-post-2018.github.io/general/2018/10/26/example-post-three/), [Tutorial Notes (손주희)](https://almond-hater.github.io/2018/distance-reconstruction-based-ND/)
 
 * Tutorial 10: Model-based novelty detection
-  * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
-  * [Tutorial Notes(윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/)
-  * [Tutorial Notes(박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md)
-  * [Tutorial Notes(박성훈)](https://seonghunpark.github.io/2018/ba/)
+  * [Tutorial Video (송서하, 최현율)](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10), [Tutorial Notes (윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/), [Tutorial Notes(박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md), [Tutorial Notes(박성훈)](https://seonghunpark.github.io/2018/ba/)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
