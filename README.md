@@ -61,11 +61,10 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8) (전창동, 오주혁)
   * [Tutorial Notes(이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/)
   * [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/)
- * [Tutorial Notes(음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
+  * [Tutorial Notes(음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
  
 * Tutorial 9: Distance/Reconstruction-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS) (옥명훈)
-  * [Tutorial Notes]() (김영호, 손주희, 김위백, Due: 2018-11-27)
   * [Tutorial Notes(김영호)](https://dog-k.github.io/Distance_Reconstruction-based-novelty-detection/)
   * [Tutorial Notes(김위백)](https://ba-post-2018.github.io/general/2018/10/26/example-post-three/)
   * [Tutorial Notes(손주희)](https://almond-hater.github.io/2018/distance-reconstruction-based-ND/)
@@ -73,8 +72,8 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 10: Model-based novelty detection
   * [Tutorial Video](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10) (송서하, 최현율)
   * [Tutorial Notes(윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/)
-  * [Tutorial Notes(박혜준](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md)
-  * [Tutorial Notes(박성훈](https://seonghunpark.github.io/2018/ba/)
+  * [Tutorial Notes(박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md)
+  * [Tutorial Notes(박성훈)](https://seonghunpark.github.io/2018/ba/)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
