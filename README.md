@@ -45,7 +45,7 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 9: Distance/Reconstruction-based novelty detection
   * [Tutorial Video (옥명훈)](https://www.youtube.com/watch?v=3-fp2_mmUHs&index=9&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (김영호)](https://dog-k.github.io/Distance_Reconstruction-based-novelty-detection/), [Tutorial Notes (김위백)](https://ba-post-2018.github.io/general/2018/10/26/example-post-three/), [Tutorial Notes (손주희)](https://almond-hater.github.io/2018/distance-reconstruction-based-ND/)
 * Tutorial 10: Model-based novelty detection
-  * [Tutorial Video (송서하, 최현율)](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10), [Tutorial Notes (윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/), [Tutorial Notes(박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md), [Tutorial Notes(박성훈)](https://seonghunpark.github.io/2018/ba/)
+  * [Tutorial Video (송서하, 최현율)](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10), [Tutorial Notes (윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/), [Tutorial Notes (박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md), [Tutorial Notes (박성훈)](https://seonghunpark.github.io/2018/ba/)
   
 ## Topic 4: Ensemble Learning
 * Motivation and theoretical backgrounds
