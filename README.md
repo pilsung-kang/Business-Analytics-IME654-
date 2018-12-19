@@ -60,7 +60,7 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 12: AdaBoost, Gradient Boosting
   * [Tutorial Video (김명소)](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11), [Tutorial Notes(황호선)](https://hosun17.github.io/), [Tutorial Notes (이주현)](https://lee-ju.github.io/2018/BA_Boosting-Juhyun_Lee/), [Tutorial Notes (유건령)](https://gunlyungyou.github.io/Hello-World/)
 * Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
-  * [Tutorial Video (임희찬, 권상현)](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13, [Tutorial Notes (고봉균)](https://eric1goh.github.io/blog/2018/12/13/Randomforest_Decisionjungle/) , [Tutorial Notes (조영선)](https://github.com/yscatwork/yscatwork.github.io/blob/master/_posts/2018-12-18-RandomForest_DecisionJungle.md), [Tutorial Notes (정회빈)](https://rpubs.com/stat17_hb/450045)
+  * [Tutorial Video (임희찬, 권상현)](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13), [Tutorial Notes (고봉균)](https://eric1goh.github.io/blog/2018/12/13/Randomforest_Decisionjungle/) , [Tutorial Notes (조영선)](https://github.com/yscatwork/yscatwork.github.io/blob/master/_posts/2018-12-18-RandomForest_DecisionJungle.md), [Tutorial Notes (정회빈)](https://rpubs.com/stat17_hb/450045)
 
 ## Topic 5: Semi-supervised Learning
 * Overview
