@@ -5,6 +5,7 @@ Course homepage for "Business Analytics" @Korea University
 * Final Exam:
    * Time: 2018-12-18 14:00~17:00
    * Place: New Engineering Hall 218, 224 ([download](https://www.dropbox.com/s/f66i9g5h5zpv848/2018_Final%20Exam_Notice.pdf?dl=0))
+   * [Final exam score sheet](https://www.dropbox.com/s/5qylcrsp2kuan0m/2018_BA_Final%20Exam%20Score.xlsx?dl=0)
 * Course syllabus: [download](https://www.dropbox.com/s/wxly1mgrbv4zksf/2018_2_Business%20Analytics.pdf?dl=0)
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
 * [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
