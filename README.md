@@ -70,15 +70,15 @@ Course homepage for "Business Analytics" @Korea University
 * Semi-supervised SVM
 * Graph-based SSL
 * Multi-view algorithm (Co-training)
-* Tutorial 14: Self-training (김우일)
-  * [Tutorial Video](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-  * [Tutorial Notes]() (김진국, 김영준, Due: 2018-12-25)
-* Tutorial 15: Generative models (강성호)
-  * [Tutorial Video](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15)
+* Tutorial 14: Self-training
+  * [Tutorial Video (김우일)](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), * [Tutorial Notes (김영준)](https://ba-ssl-2018.github.io/general/2018/12/23/example-post-three/)
+  * [Tutorial Notes]() (김진국, Due: 2018-12-25)
+* Tutorial 15: Generative models
+  * [Tutorial Video (강성호)](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15)
   * [Tutorial Notes]() (강희종, 박건빈, 이효연, Due: 2018-12-25)
-* Tutorial 16: Graph-based SSL (안건이)
-  * [Tutorial Video](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-  * [Tutorial Notes]() (변준형, 이수빈, 윤도균, Due: 2018-12-25)
+* Tutorial 16: Graph-based SSL
+  * [Tutorial Video (안건이)](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+  * [Tutorial Notes (변준형)](https://junhyungbyun.github.io/Graph-based-Semi-Supervised-Learning/) (이수빈, 윤도균, Due: 2018-12-25)
 * Tutorial 17: Multi-view algorithm (Co-training)
   * [Tutorial Video (이준헌)](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (문준)](https://nrbam123.github.io/main/2018/12/20/sample-content.html), [Tutorial Notes (진세종)]( https://github.com/ksjhint43/ksjhint43.github.io/blob/master/_posts/2018-12-23-Co-training.md)
   * [Tutorial Notes]() (문준, 백인성, 진세종, Due: 2018-12-25)
