@@ -78,6 +78,6 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 16: Graph-based SSL (안건이)
   * [Tutorial Video](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
   * [Tutorial Notes]() (변준형, 이수빈, 윤도균, Due: 2018-12-25)
-* Tutorial 17: Multi-view algorithm (Co-training) (이준헌)
-  * [Tutorial Video](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
+* Tutorial 17: Multi-view algorithm (Co-training)
+  * [Tutorial Video (이준헌)](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (문준)](https://nrbam123.github.io/main/2018/12/20/sample-content.html), [Tutorial Notes (진세종)]( https://github.com/ksjhint43/ksjhint43.github.io/blob/master/_posts/2018-12-23-Co-training.md)
   * [Tutorial Notes]() (문준, 백인성, 진세종, Due: 2018-12-25)
