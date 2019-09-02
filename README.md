@@ -2,6 +2,10 @@
 Course homepage for "Business Analytics" @Korea University
 
 ## Notice
+* Final Exam:
+   * Time: 2018-12-18 14:00~17:00
+   * Place: New Engineering Hall 218, 224 ([download](https://www.dropbox.com/s/f66i9g5h5zpv848/2018_Final%20Exam_Notice.pdf?dl=0))
+   * [Final exam & Tutorial Note score sheet](https://www.dropbox.com/s/enw8sjs4lo8rzrl/2018_BA_Final%20Exam_Tutorial%20Note_Score.xlsx?dl=0)
 * Course syllabus: [download](https://www.dropbox.com/s/wxly1mgrbv4zksf/2018_2_Business%20Analytics.pdf?dl=0)
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
 * [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
@@ -52,15 +56,12 @@ Course homepage for "Business Analytics" @Korea University
 * Bagging
 * Boosting: AdaBoost, Gradient Boosting
 * Tree-based Ensemble: Random Forests, Decision Jungle
-* Tutorial 11: Bagging (이주한)
-  * [Tutorial Video](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
-  * [Tutorial Notes]() (윤석채, 김문수, 양형원, Due: 2018-12-11)
-* Tutorial 12: AdaBoost, Gradient Boosting (김명소)
-  * [Tutorial Video](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11)
-  * [Tutorial Notes]() (이주현, 황호선, 유건령, Due: 2018-12-11)
+* Tutorial 11: Bagging
+  * [Tutorial Video (이주한)](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11), [Tutorial Notes (김문수)](https://moonsu1.github.io/2018/bagging/), [Tutorial Notes (양형원)](https://hyungwonsnotebook.blogspot.com/2018/12/welcome-file_81.html), [Tutorial Notes (윤석채)](https://seokchaeyoon.github.io/)
+* Tutorial 12: AdaBoost, Gradient Boosting
+  * [Tutorial Video (김명소)](https://www.youtube.com/watch?v=KByuP_e6rGc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11), [Tutorial Notes(황호선)](https://hosun17.github.io/), [Tutorial Notes (이주현)](https://lee-ju.github.io/2018/BA_Boosting-Juhyun_Lee/), [Tutorial Notes (유건령)](https://gunlyungyou.github.io/Hello-World/)
 * Tutorial 13: Random Forests, Decision Jungle (임희찬, 권상현)
-  * [Tutorial Video](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13)
-  * [Tutorial Notes]() (조영선, 정회빈, 고봉균, Due: 2018-12-18)
+  * [Tutorial Video (임희찬, 권상현)](https://www.youtube.com/watch?v=G01q0iR9aUg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=13), [Tutorial Notes (고봉균)](https://eric1goh.github.io/blog/2018/12/13/Randomforest_Decisionjungle/) , [Tutorial Notes (조영선)](https://github.com/yscatwork/yscatwork.github.io/blob/master/_posts/2018-12-18-RandomForest_DecisionJungle.md), [Tutorial Notes (정회빈)](https://stat17-hb.github.io/ml/2018/12/24/Tree-based-ensemble.html)
 
 ## Topic 5: Semi-supervised Learning
 * Overview
@@ -69,15 +70,11 @@ Course homepage for "Business Analytics" @Korea University
 * Semi-supervised SVM
 * Graph-based SSL
 * Multi-view algorithm (Co-training)
-* Tutorial 14: Self-training (김우일)
-  * [Tutorial Video](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-  * [Tutorial Notes]() (김진국, 김영준, Due: 2018-12-25)
-* Tutorial 15: Generative models (강성호)
-  * [Tutorial Video](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15)
-  * [Tutorial Notes]() (강희종, 박건빈, 이효연, Due: 2018-12-25)
-* Tutorial 16: Graph-based SSL (안건이)
-  * [Tutorial Video](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-  * [Tutorial Notes]() (변준형, 이수빈, 윤도균, Due: 2018-12-25)
-* Tutorial 17: Multi-view algorithm (Co-training) (이준헌)
-  * [Tutorial Video](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS)
-  * [Tutorial Notes]() (문준, 백인성, 진세종, Due: 2018-12-25)
+* Tutorial 14: Self-training
+  * [Tutorial Video (김우일)](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), * [Tutorial Notes (김영준)](https://ba-ssl-2018.github.io/general/2018/12/23/example-post-three/), [Tutorial Notes (김진국)](https://jkook1218.github.io/deep/learning/2018/12/24/self_training.html)
+* Tutorial 15: Generative models
+  * [Tutorial Video (강성호)](https://www.youtube.com/watch?v=_s-5zIDtUcU&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=15), [Tutorial Notes (강희종)](https://hjkang0315.github.io/), [Tutorial Notes (박건빈)](https://kbpark16.github.io/2018/final-project/), [Tutorial Notes (이효연)](https://kateyeon.github.io/business%20analytics/2018/12/25/Generative-model/)
+* Tutorial 16: Graph-based SSL
+  * [Tutorial Video (안건이)](https://www.youtube.com/watch?v=AKkdONj7jxw&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (변준형)](https://junhyungbyun.github.io/Graph-based-Semi-Supervised-Learning/), [Tutorial Notes (이수빈)](https://log0629.github.io//2018/GSSL/), [Tutorial Notes (윤도균)](https://4someday.github.io/2018-12-25-BA/)
+* Tutorial 17: Multi-view algorithm (Co-training)
+  * [Tutorial Video (이준헌)](https://www.youtube.com/watch?v=Uvdu-9t1UYg&index=16&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (문준)](https://nrbam123.github.io/main/2018/12/20/sample-content.html), [Tutorial Notes (진세종)]( https://github.com/ksjhint43/ksjhint43.github.io/blob/master/_posts/2018-12-23-Co-training.md), [Tutorial Notes (백인성)](https://insung-baek.github.io/Multiview-Algorithms/)
