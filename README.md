@@ -2,6 +2,11 @@
 Course homepage for "Business Analytics" @Korea University
 
 ## Notice
+* **Final Exam**
+  * 일시: 2019-12-12 15:30~17:00
+  * 장소: 신공학관 218호 및 신공학관 224호 ([시험장소 배정](https://www.dropbox.com/s/01u8cklt20wd6yq/Final%20Exam%20Place.xlsx?dl=0))
+  * 준비물: 필기도구 및 A4 앞뒤 3장 이내의 자필로 작성한 cheat sheet (복사 및 인쇄본 불가)
+  * 계산기 필요 없음, 휴대폰 반드시 전원 Off, 휴대폰 사용시 퇴실 및 0점 
 * Course syllabus: [download](https://www.dropbox.com/s/9jnxo7cibbye5cw/2019_2_Business%20Analytics.pdf?dl=0)
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
 * [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
