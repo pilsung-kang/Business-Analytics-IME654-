@@ -2,6 +2,11 @@
 Course homepage for "Business Analytics" @Korea University
 
 ## Notice
+* **최종 성적 공지**
+  * 기말고사, 논문, 출석, 가산점 등이 포함된 최종 성적을 아래와 같이 공지합니다.
+  * ([최종성적 다운로드](https://www.dropbox.com/s/03w6gqhf4kc7fvj/2019_BA_%EC%84%B1%EC%A0%81_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0))
+  * 학점은 학점 확인 기간에 포털에서 확인하세요.
+  * 한 학기 동안 수고하셨습니다.
 * **Final Exam**
   * 일시: 2019-12-12 15:30~17:00
   * 장소: 신공학관 218호 및 신공학관 224호 ([시험장소 배정](https://www.dropbox.com/s/01u8cklt20wd6yq/Final%20Exam%20Place.xlsx?dl=0))
