@@ -9,7 +9,7 @@ Course homepage for "Business Analytics" @Korea University
 
 ## Schedule
 ## Topic 1: Dimensionality Reduction
-* Dimensionality Reduction: Overview ([Slide](), [Video](https://www.youtube.com/watch?v=ytRmxBvyGG0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=2&t=186s))
+* Dimensionality Reduction: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_1_Dimensionality%20Reduction_Overview.pdf), [Video](https://www.youtube.com/watch?v=ytRmxBvyGG0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=2&t=186s))
 * Supervised Methods: Forward selection, Backward elimination, Stepwise selection, Genetic algorithm
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
