@@ -10,9 +10,12 @@ Course homepage for "Business Analytics" @Korea University
 ## Schedule
 ## Topic 1: Dimensionality Reduction
 * Dimensionality Reduction: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_1_Dimensionality%20Reduction_Overview.pdf), [Video](https://www.youtube.com/watch?v=ytRmxBvyGG0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=2&t=186s))
-* Supervised Methods: Forward selection, Backward elimination, Stepwise selection, Genetic algorithm
-* Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
-* Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
+* Supervised Methods 1: Forward selection, Backward elimination, Stepwise selection
+* Supervised Methods 2: Genetic algorithm
+* Unsupervised Method (Linear embedding) 1: Principal component analysis (PCA)
+* Unsupervised Method (Linear embedding) 2: Multi-dimensional scaling (MDS)
+* Unsupervised Method (Nonlinear embedding) 1: ISOMAP, LLE
+* Unsupervised Method (Nonlinear embedding) 2: t-SNE
 * Tutorial 1: Supervised Method
   * [Tutorial Video (장명준)](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/), [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
