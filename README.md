@@ -2,13 +2,14 @@
 Course homepage for "Business Analytics" @Korea University
 
 ## Notice
-* Syllabus ([Slide](), [Video]())
+* Syllabus ([Document](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/2020_2_Business%20Analytics.pdf
+), [Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/00_Syllabus.pdf), [Video]())
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
 * [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
 
 ## Schedule
 ## Topic 1: Dimensionality Reduction
-* Dimensionality Reduction: Overview
+* Dimensionality Reduction: Overview ([Slide](), [Video](https://www.youtube.com/watch?v=ytRmxBvyGG0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=2&t=186s))
 * Supervised Methods: Forward selection, Backward elimination, Stepwise selection, Genetic algorithm
 * Unsupervised Method (Linear embedding): Principal component analysis (PCA), Multi-dimensional scaling (MDS)
 * Unsupervised Method (Nonlinear embedding): ISOMAP, LLE, t-SNE
