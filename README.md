@@ -3,7 +3,7 @@ Course homepage for "Business Analytics" @Korea University
 
 ## Notice
 * Syllabus ([Document](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/2020_2_Business%20Analytics.pdf
-), [Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/00_Syllabus.pdf), [Video]())
+), [Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/00_Syllabus.pdf), [Video](https://www.youtube.com/watch?v=gcyQcI9qZPo&list=PLetSlH8YjIfVIrfhwuss_tDCgD5_ug_dy&index=1))
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
 * [Tutorial resources (2016)](https://drive.google.com/open?id=0B0tdfxikEBvtVnpOdXNKQUd2S2M)
 
