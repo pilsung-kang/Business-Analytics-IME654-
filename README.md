@@ -24,11 +24,12 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video (서승완)](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (양우식)](https://woosikyang.github.io/), [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
   
 ## Topic 2: Kernel-based Learning
-* Theoretical foundation
-* Support Vector Machine (SVM)
-* Support Vector Regression (SVR)
-* Kernel Fisher Discriminant Analysis (KFDA)
-* Kernel Principal Component Analysis (KPCA)
+* Theoretical foundation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_1_Kernel-based%20Learning_Theoretical%20Foundation.pdf))
+* Support Vector Machine (SVM) - Linear & Hard Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_2_Kernel-based%20Learning_SVM_Linear_Hard%20Margin.pdf))
+* Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf))
+* Support Vector Regression (SVR) - ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf))
+* Kernel Fisher Discriminant Analysis (KFDA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_5_Kernel-based%20Learning_KFDA.pdf))
+* Kernel Principal Component Analysis (KPCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_6_Kernel-based%20Learning_KPCA.pdf))
 * Tutorial 4: Support Vector Machine (SVM)
   * [Tutorial Video (성유연)](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4), [Tutorial Notes (유초롱)](https://zernes.github.io/SVM/), [Tutorial Notes (정민성)](https://ms930.github.io/)
 * Tutorial 5: Support Vector Regression (SVR)
