@@ -27,7 +27,7 @@ Course homepage for "Business Analytics" @Korea University
 * Theoretical foundation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_1_Kernel-based%20Learning_Theoretical%20Foundation.pdf))
 * Support Vector Machine (SVM) - Linear & Hard Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_2_Kernel-based%20Learning_SVM_Linear_Hard%20Margin.pdf))
 * Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf))
-* Support Vector Regression (SVR) - ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf))
+* Support Vector Regression (SVR) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf))
 * Kernel Fisher Discriminant Analysis (KFDA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_5_Kernel-based%20Learning_KFDA.pdf))
 * Kernel Principal Component Analysis (KPCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_6_Kernel-based%20Learning_KPCA.pdf))
 * Tutorial 4: Support Vector Machine (SVM)
