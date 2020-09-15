@@ -15,7 +15,7 @@ Course homepage for "Business Analytics" @Korea University
 * Unsupervised Method (Linear embedding) 1: Principal component analysis (PCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_4_Dimensionality%20Reduction_PCA.pdf), [Video](https://www.youtube.com/watch?v=bEX6WPMiLvo))
 * Unsupervised Method (Linear embedding) 2: Multi-dimensional scaling (MDS) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_5_Dimensionality%20Reduction_MDS.pdf), [Video](https://www.youtube.com/watch?v=Yv00AT4pLC4&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=6))
 * Unsupervised Method (Nonlinear embedding) 1: ISOMAP, LLE ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_6_Dimensionality%20Reduction_ISOMAP_LLE.pdf), [Video](https://www.youtube.com/watch?v=3FAAILDbDd8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=7))
-* Unsupervised Method (Nonlinear embedding) 2: t-SNE ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_7_Dimensionality%20Reduction_tSNE.pdf))
+* Unsupervised Method (Nonlinear embedding) 2: t-SNE ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/01%20Dimensionality%20Reduction/01_7_Dimensionality%20Reduction_tSNE.pdf), [Video](https://www.youtube.com/watch?v=INHwh8k4XhM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=8))
 * Tutorial 1: Supervised Method
   * [Tutorial Video (장명준)](https://www.youtube.com/watch?v=RxoX21j6iV0&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (최희정)](https://heejeongchoi.github.io/hydejack/2018-10-23-Supervised-Dimension-Reduction/), [Tutorial Notes (박경찬)](https://pkc9410.github.io/2018/10/18/Supervised-Method.html)
 * Tutorial 2: Unsupervised Method (Linear embedding)
@@ -24,7 +24,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video (서승완)](https://www.youtube.com/watch?v=iPCZD9Uh5ps&index=2&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), [Tutorial Notes (양우식)](https://woosikyang.github.io/), [Tutorial Notes (손규빈)](https://gyubin.github.io/ml/2018/10/26/non-linear-embedding)
   
 ## Topic 2: Kernel-based Learning
-* Theoretical foundation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_1_Kernel-based%20Learning_Theoretical%20Foundation.pdf))
+* Theoretical foundation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_1_Kernel-based%20Learning_Theoretical%20Foundation.pdf), [Video](https://www.youtube.com/watch?v=gzbafL28vA0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=9))
 * Support Vector Machine (SVM) - Linear & Hard Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_2_Kernel-based%20Learning_SVM_Linear_Hard%20Margin.pdf))
 * Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf))
 * Support Vector Regression (SVR) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf))
