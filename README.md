@@ -41,7 +41,6 @@ Course homepage for "Business Analytics" @Korea University
  
 ## Topic 3: Anomaly Detection
 * Anomaly Detection: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-1_Anomaly%20Detection_Overview.pdf))
-
 * Density-based Anomaly Detection Part 1: Gaussian Density Estimation & Mixture of Gaussian Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-2_Anomaly%20Detection_Gauss_MoG.pdf))
 * Density-based Anomaly Detection Part 2: Parzen Window Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-3_Anomaly%20Detection_Parzen.pdf))
 * Density-based Anomaly Detection Part 3: Local Outlier Factor (LOF) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-4_Anomaly%20Detection_LOF.pdf]) 
