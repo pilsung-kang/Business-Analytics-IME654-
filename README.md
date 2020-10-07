@@ -26,9 +26,9 @@ Course homepage for "Business Analytics" @Korea University
 ## Topic 2: Kernel-based Learning
 * Theoretical foundation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_1_Kernel-based%20Learning_Theoretical%20Foundation.pdf), [Video](https://www.youtube.com/watch?v=gzbafL28vA0&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=9))
 * Support Vector Machine (SVM) - Linear & Hard Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_2_Kernel-based%20Learning_SVM_Linear_Hard%20Margin.pdf), [Video](https://www.youtube.com/watch?v=eZtrD6pYaaE&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=10))
-* Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf), [[Video](https://www.youtube.com/watch?v=RKMiTJAnLy8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=11))
-* Support Vector Regression (SVR) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf))
-* Kernel Fisher Discriminant Analysis (KFDA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_5_Kernel-based%20Learning_KFDA.pdf))
+* Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf), [Video](https://www.youtube.com/watch?v=RKMiTJAnLy8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=11))
+* Support Vector Regression (SVR) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf), [Video](https://www.youtube.com/watch?v=zLgQUaXFbQI&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=12))
+* Kernel Fisher Discriminant Analysis (KFDA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_5_Kernel-based%20Learning_KFDA.pdf), [Video](https://www.youtube.com/watch?v=XpkOcsGTS8k&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=13))
 * Kernel Principal Component Analysis (KPCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_6_Kernel-based%20Learning_KPCA.pdf))
 * Tutorial 4: Support Vector Machine (SVM)
   * [Tutorial Video (성유연)](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4), [Tutorial Notes (유초롱)](https://zernes.github.io/SVM/), [Tutorial Notes (정민성)](https://ms930.github.io/)
@@ -39,12 +39,15 @@ Course homepage for "Business Analytics" @Korea University
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video (채선율)](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7), [Tutorial Notes (홍연정)](https://yeonjunghong.github.io/KernelPrincipalComponentAnalysis/), [Tutorial Notes (이선화)](https://seonhwalee.github.io/machinelearning/2018-11-29-kernel-pca/), [Tutorial Notes (최지은)](https://jieunchoi1120.github.io/2018/Kernel-PCA/)
  
-## Topic 3: Novelty Detection
-* Novelty detection: Overview
-* Density-based novelty detection
-* Distance/Reconstruction-based novelty detection
-* Model-based novelty detection
-* Applications
+## Topic 3: Anomaly Detection
+* Anomaly Detection: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-1_Anomaly%20Detection_Overview.pdf))
+* Density-based Anomaly Detection Part 1: Gaussian Density Estimation & Mixture of Gaussian Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-2_Anomaly%20Detection_Gauss_MoG.pdf))
+* Density-based Anomaly Detection Part 2: Parzen Window Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-3_Anomaly%20Detection_Parzen.pdf))
+* Density-based Anomaly Detection Part 3: Local Outlier Factor (LOF) ([Slide[https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-4_Anomaly%20Detection_LOF.pdf]) 
+* Distance/Reconstruction-based Anomaly Detection ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-5_Anomaly%20Detection_Distance-based.pdf))
+* Model-based Anomaly Detection Part 1: Auto-Encoder, 1-SVM, and Support Vector Data Description (SVDD) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-6_Anomaly%20Detection_AE_1SVM_SVDD.pdf))
+* Model-based Anomaly Detection Part 2: Isolation Forest and Extended Isolation Forest ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-7_Anomaly%20Detection_Isolation%20Forest.pdf)) 
+
 * Tutorial 8: Density-based novelty detection
   * [Tutorial Video (전창동, 오주혁)](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8), [Tutorial Notes (이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/), [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/), [Tutorial Notes (음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
 * Tutorial 9: Distance/Reconstruction-based novelty detection
