@@ -29,7 +29,7 @@ Course homepage for "Business Analytics" @Korea University
 * Support Vector Machine (SVM) - Soft Margin ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_3_Kernel-based%20Learning_SVM_Soft%20Margin.pdf), [Video](https://www.youtube.com/watch?v=RKMiTJAnLy8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=11))
 * Support Vector Regression (SVR) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_4_Kernel-based%20Learning_SVR.pdf), [Video](https://www.youtube.com/watch?v=zLgQUaXFbQI&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=12))
 * Kernel Fisher Discriminant Analysis (KFDA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_5_Kernel-based%20Learning_KFDA.pdf), [Video](https://www.youtube.com/watch?v=XpkOcsGTS8k&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=13))
-* Kernel Principal Component Analysis (KPCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_6_Kernel-based%20Learning_KPCA.pdf))
+* Kernel Principal Component Analysis (KPCA) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/02%20Kernel-based%20Learning/02_6_Kernel-based%20Learning_KPCA.pdf), [Video](https://www.youtube.com/watch?v=6Et6S03Me4o&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=14))
 * Tutorial 4: Support Vector Machine (SVM)
   * [Tutorial Video (성유연)](https://www.youtube.com/watch?v=x8zXUnQ-Xak&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=4), [Tutorial Notes (유초롱)](https://zernes.github.io/SVM/), [Tutorial Notes (정민성)](https://ms930.github.io/)
 * Tutorial 5: Support Vector Regression (SVR)
