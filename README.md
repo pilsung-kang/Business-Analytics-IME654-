@@ -38,7 +38,7 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video (조윤상)](https://www.youtube.com/watch?v=xYZzVCi_uSc&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=6), [Tutorial Notes (이민형)](https://inoutro.github.io/2018/11/19/Kernel-Fisher-Discriminant-Analysis.html), [Tutorial Notes (송재승)](https://jassong.github.io/kernel/machinelearning/lda/businessanalytics-post/), [Tutorial Notes (조수희)](https://suhee05.github.io/fisher-discriminant/)
 * Tutorial 7: Kernel Principal Component Analysis (KPCA)
   * [Tutorial Video (채선율)](https://www.youtube.com/watch?v=A30AFijdj4E&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=7), [Tutorial Notes (홍연정)](https://yeonjunghong.github.io/KernelPrincipalComponentAnalysis/), [Tutorial Notes (이선화)](https://seonhwalee.github.io/machinelearning/2018-11-29-kernel-pca/), [Tutorial Notes (최지은)](https://jieunchoi1120.github.io/2018/Kernel-PCA/)
- 
+
 ## Topic 3: Anomaly Detection
 * Anomaly Detection: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-1_Anomaly%20Detection_Overview.pdf), [Video](https://www.youtube.com/watch?v=ECgI1YVQpY8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=15))
 * Density-based Anomaly Detection Part 1: Gaussian Density Estimation & Mixture of Gaussian Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-2_Anomaly%20Detection_Gauss_MoG.pdf), [Video](https://www.youtube.com/watch?v=kKZM8bxwQbA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=16))
@@ -47,7 +47,7 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based Anomaly Detection ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-5_Anomaly%20Detection_Distance-based.pdf), [Video](https://www.youtube.com/watch?v=diEYxlkcwFM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=19))
 * Model-based Anomaly Detection Part 1: Auto-Encoder, 1-SVM, and Support Vector Data Description (SVDD) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-6_Anomaly%20Detection_AE_1SVM_SVDD.pdf), [Video](https://www.youtube.com/watch?v=OmK_GQ40yko&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=20))
 * Model-based Anomaly Detection Part 2: Isolation Forest and Extended Isolation Forest ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-7_Anomaly%20Detection_Isolation%20Forest.pdf), [Video](https://www.youtube.com/watch?v=puVdwi5PjVA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=21)) 
-* (Optional) Anomaly Detection with Generative Adversarial Network ([Video]https://www.youtube.com/watch?v=XutSxX-H5Xs&list=PLetSlH8YjIfUuwVM3j9XQ3UQTrY2KhdO1&index=9), presented by 김창엽)
+* (Optional) Anomaly Detection with Generative Adversarial Network ([Video](https://www.youtube.com/watch?v=XutSxX-H5Xs&list=PLetSlH8YjIfUuwVM3j9XQ3UQTrY2KhdO1&index=9), presented by 김창엽)
 * (Optional) Graph-based Anomaly Detection ([Video](https://www.youtube.com/watch?v=1xAIorGMy8I&list=PLetSlH8YjIfWk_PBAXKWqQM4pqzMMENrb&index=4), presented by 김혜연)
 
 * Tutorial 8: Density-based novelty detection
