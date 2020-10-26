@@ -58,8 +58,9 @@ Course homepage for "Business Analytics" @Korea University
   * [Tutorial Video (송서하, 최현율)](https://www.youtube.com/watch?v=g9NzTHhSsKg&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=10), [Tutorial Notes (윤혜빈)](https://tp46.github.io/general/2018/11/27/model-based-novelty-detection/), [Tutorial Notes (박혜준)](https://haejunpark.github.io/2018/12/04/Model-based_Novelty_Detection.html), [Markdown File](https://github.com/HaejunPark/HaejunPark.github.io/blob/master/_posts/2018-12-04-Model-based_Novelty_Detection.md), [Tutorial Notes (박성훈)](https://seonghunpark.github.io/2018/ba/)
   
 ## Topic 4: Ensemble Learning
-* Motivation and theoretical backgrounds
-* Bagging
+* Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf))
+* Bias-Variance Decomposition ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-2_Ensemble%20Learning_Bias-Variance%20Decomposition.pdf))
+* Bagging ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-3_Ensemble%20Learning_Bagging.pdf))
 * Boosting: AdaBoost, Gradient Boosting
 * Tree-based Ensemble: Random Forests, Decision Jungle
 * Tutorial 11: Bagging
