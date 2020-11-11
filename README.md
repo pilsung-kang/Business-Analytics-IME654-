@@ -61,9 +61,9 @@ Course homepage for "Business Analytics" @Korea University
 * Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf), [Video](https://www.youtube.com/watch?v=1OEeguDBsLU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=22))
 * Bias-Variance Decomposition ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-2_Ensemble%20Learning_Bias-Variance%20Decomposition.pdf), [Video](https://www.youtube.com/watch?v=mZwszY3kQBg&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=23))
 * Bagging ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-3_Ensemble%20Learning_Bagging.pdf), [Video](https://www.youtube.com/watch?v=vlkbVgdPXc4&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=24))
-* Bagging: Random Forests ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-4_Ensemble%20Learning_Random%20Forests.pdf))
-* Boosting 1 - Adaptive Boosting (AdaBoost) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-5_Ensemble%20Learning_AdaBoost.pdf)) 
-* Boosting 2 - Gradient Boosting Machine (GBM) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-6_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf))
+* Bagging: Random Forests ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-4_Ensemble%20Learning_Random%20Forests.pdf), [Video](https://www.youtube.com/watch?v=nu_6PB1v3Xk&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=25))
+* Boosting 1 - Adaptive Boosting (AdaBoost) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-5_Ensemble%20Learning_AdaBoost.pdf), [Video](https://www.youtube.com/watch?v=HZg8_wZPZGU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=26)) 
+* Boosting 2 - Gradient Boosting Machine (GBM) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-6_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf), [Video](https://www.youtube.com/watch?v=d6nRgztYWQM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=27))
 * Boosting 3 - XGBoost
 * Boosting 4 - Light GBM
 * Boosting 5 - CatBoost
