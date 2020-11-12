@@ -50,6 +50,7 @@ Course homepage for "Business Analytics" @Korea University
 * (Optional) Anomaly Detection with Generative Adversarial Network ([Video](https://www.youtube.com/watch?v=XutSxX-H5Xs&list=PLetSlH8YjIfUuwVM3j9XQ3UQTrY2KhdO1&index=9), presented by 김창엽)
 * (Optional) Graph-based Anomaly Detection ([Video](https://www.youtube.com/watch?v=1xAIorGMy8I&list=PLetSlH8YjIfWk_PBAXKWqQM4pqzMMENrb&index=4), presented by 김혜연)
 * Tutorial 8: Density-based novelty detection
+  * [Tutorial Video (전창동, 오주혁)](https://www.youtube.com/watch?v=pvBVTbda_cQ&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=8), [Tutorial Notes (이인구)](https://demiust.github.io/general/2018/11/26/Density-based_Novelty_Detection/), [Tutorial Notes(Justus Aaron Benning)](https://benningjustus.github.io/Density_Based_ND/), [Tutorial Notes (음수민)](https://soomin-eum.github.io/3.Novelty-Detection(02)/)
 
 ## Topic 4: Ensemble Learning
 * Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf), [Video](https://www.youtube.com/watch?v=1OEeguDBsLU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=22))
