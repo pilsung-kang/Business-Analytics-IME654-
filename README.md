@@ -45,7 +45,7 @@ Course homepage for "Business Analytics" @Korea University
 * Density-based Anomaly Detection Part 2: Parzen Window Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-3_Anomaly%20Detection_Parzen.pdf), [Video](https://www.youtube.com/watch?v=rddQT5vxwrg&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=17))
 * Density-based Anomaly Detection Part 3: Local Outlier Factor (LOF) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-4_Anomaly%20Detection_LOF.pdf), [Video](https://www.youtube.com/watch?v=ODNAyt1h6Eg&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=18))
 * Distance/Reconstruction-based Anomaly Detection ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-5_Anomaly%20Detection_Distance-based.pdf), [Video](https://www.youtube.com/watch?v=diEYxlkcwFM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=19))
-
+* Model-based Anomaly Detection Part 1: Auto-Encoder, 1-SVM, and Support Vector Data Description (SVDD) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-6_Anomaly%20Detection_AE_1SVM_SVDD.pdf), [Video](https://www.youtube.com/watch?v=OmK_GQ40yko&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=20))
 
 ## Topic 4: Ensemble Learning
 * Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf), [Video](https://www.youtube.com/watch?v=1OEeguDBsLU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=22))
