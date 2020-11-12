@@ -64,7 +64,7 @@ Course homepage for "Business Analytics" @Korea University
 * Bagging: Random Forests ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-4_Ensemble%20Learning_Random%20Forests.pdf), [Video](https://www.youtube.com/watch?v=nu_6PB1v3Xk&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=25))
 * Boosting 1 - Adaptive Boosting (AdaBoost) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-5_Ensemble%20Learning_AdaBoost.pdf), [Video](https://www.youtube.com/watch?v=HZg8_wZPZGU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=26)) 
 * Boosting 2 - Gradient Boosting Machine (GBM) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-6_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf), [Video](https://www.youtube.com/watch?v=d6nRgztYWQM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=27))
-* Boosting 3 - XGBoost
+* Boosting 3 - XGBoost ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-7_Ensemble%20Learning_XGBoost.pdf), [Video](https://www.youtube.com/watch?v=VHky3d_qZ_E&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=28))
 * Boosting 4 - Light GBM
 * Boosting 5 - CatBoost
 * Tutorial 11: Bagging
