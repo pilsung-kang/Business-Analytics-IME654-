@@ -41,7 +41,7 @@ Course homepage for "Business Analytics" @Korea University
 
 ## Topic 3: Anomaly Detection
 * Anomaly Detection: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-1_Anomaly%20Detection_Overview.pdf), [Video](https://www.youtube.com/watch?v=ECgI1YVQpY8&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=15))
-
+* Density-based Anomaly Detection Part 1: Gaussian Density Estimation & Mixture of Gaussian Density Estimation ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-2_Anomaly%20Detection_Gauss_MoG.pdf), [Video](https://www.youtube.com/watch?v=kKZM8bxwQbA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=16))
 
 ## Topic 4: Ensemble Learning
 * Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf), [Video](https://www.youtube.com/watch?v=1OEeguDBsLU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=22))
