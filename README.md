@@ -47,7 +47,7 @@ Course homepage for "Business Analytics" @Korea University
 * Distance/Reconstruction-based Anomaly Detection ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-5_Anomaly%20Detection_Distance-based.pdf), [Video](https://www.youtube.com/watch?v=diEYxlkcwFM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=19))
 * Model-based Anomaly Detection Part 1: Auto-Encoder, 1-SVM, and Support Vector Data Description (SVDD) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-6_Anomaly%20Detection_AE_1SVM_SVDD.pdf), [Video](https://www.youtube.com/watch?v=OmK_GQ40yko&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=20))
 * Model-based Anomaly Detection Part 2: Isolation Forest and Extended Isolation Forest ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/03%20Anomaly%20Detection/03-7_Anomaly%20Detection_Isolation%20Forest.pdf), [Video](https://www.youtube.com/watch?v=puVdwi5PjVA&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=21))
-
+* (Optional) Anomaly Detection with Generative Adversarial Network ([Video](https://www.youtube.com/watch?v=XutSxX-H5Xs&list=PLetSlH8YjIfUuwVM3j9XQ3UQTrY2KhdO1&index=9), presented by 김창엽)
 
 ## Topic 4: Ensemble Learning
 * Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-1_Ensemble%20Learning_Overview.pdf), [Video](https://www.youtube.com/watch?v=1OEeguDBsLU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=22))
