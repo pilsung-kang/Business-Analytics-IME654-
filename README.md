@@ -64,7 +64,7 @@ Course homepage for "Business Analytics" @Korea University
 * Boosting 1 - Adaptive Boosting (AdaBoost) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-5_Ensemble%20Learning_AdaBoost.pdf), [Video](https://www.youtube.com/watch?v=HZg8_wZPZGU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=26)) 
 * Boosting 2 - Gradient Boosting Machine (GBM) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-6_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf), [Video](https://www.youtube.com/watch?v=d6nRgztYWQM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=27))
 * Boosting 3 - XGBoost ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-7_Ensemble%20Learning_XGBoost.pdf), [Video](https://www.youtube.com/watch?v=VHky3d_qZ_E&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=28))
-* Boosting 4 - Light GBM
+* Boosting 4 - Light GBM ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-8_Ensemble%20Learning_LightGBM.pdf))
 * Boosting 5 - CatBoost
 * Tutorial 11: Bagging
   * [Tutorial Video (이주한)](https://www.youtube.com/watch?v=vj25ynW7vJk&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS&index=11), [Tutorial Notes (김문수)](https://moonsu1.github.io/2018/bagging/), [Tutorial Notes (양형원)](https://hyungwonsnotebook.blogspot.com/2018/12/welcome-file_81.html), [Tutorial Notes (윤석채)](https://seokchaeyoon.github.io/)
