@@ -65,7 +65,7 @@ Course homepage for "Business Analytics" @Korea University
 * Boosting 2 - Gradient Boosting Machine (GBM) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-6_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf), [Video](https://www.youtube.com/watch?v=d6nRgztYWQM&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=27))
 * Boosting 3 - XGBoost ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-7_Ensemble%20Learning_XGBoost.pdf), [Video](https://www.youtube.com/watch?v=VHky3d_qZ_E&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=28))
 * Boosting 4 - Light GBM ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-8_Ensemble%20Learning_LightGBM.pdf), [Video](https://youtu.be/4C8SUZJPlMY))
-* Boosting 5 - CatBoost ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-9_Ensemble%20Learning_CatBoost.pdf))
+* Boosting 5 - CatBoost ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/04%20Ensemble%20Learning/04-9_Ensemble%20Learning_CatBoost.pdf), [Video](https://youtu.be/2Yi_Jse_7JQ))
 * (Optional) XGBoost ([Video](https://youtu.be/VkaZXGknN3g), presented by 윤훈상)
 * (Optional) CatBoost ([Video](https://youtu.be/-w_6wDJQCZY), presented by 김지나)
 * Tutorial 11: Bagging
