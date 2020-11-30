@@ -78,6 +78,7 @@ Course homepage for "Business Analytics" @Korea University
 ## Topic 5: Semi-supervised Learning
 * SSL: Overview ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/05%20Semi-supervised%20Learning/05-1_Semi-supervised%20Learning_Overview.pdf), [Video](https://youtu.be/vhitW3gsuhw))
 * SSL: Self-training & Co-Training (Multi-view algorithm) ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/05%20Semi-supervised%20Learning/05-2_Semi-supervised%20Learning_Self%20Training%20and%20Co-Training.pdf), [Video](https://youtu.be/5i-wVc8Jn-U))
+* SSL: Graph-based SSL ([Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/05%20Semi-supervised%20Learning/05-3_Semi-supervised%20Learning_Graph-based%20SSL.pdf))
 * Tutorial 14: Self-training
   * [Tutorial Video (김우일)](https://www.youtube.com/watch?v=hxymEnvActc&index=14&list=PLetSlH8YjIfXHbqJmguPdw1H7BmZPy6SS), * [Tutorial Notes (김영준)](https://ba-ssl-2018.github.io/general/2018/12/23/example-post-three/), [Tutorial Notes (김진국)](https://jkook1218.github.io/deep/learning/2018/12/24/self_training.html)
 * Tutorial 15: Generative models
