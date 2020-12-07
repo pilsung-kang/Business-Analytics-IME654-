@@ -2,6 +2,15 @@
 Course homepage for "Business Analytics" @Korea University
 
 ## Notice
+- 비대면 기말고사 실시
+  - 일시: 2020년 12월 22일(화) 오후 3시 30분~5시 30분 (120분)
+  - 형식: Google Meet 회의 링크에 접속하여 시험시간 동안 비디오를 켠 상태에서 시험 실시
+  - 시험 방식: Open Slide + Cheating Sheet (A4용지 앞뒤로 3장, 총 6페이지, 본인이 직접 필기한 자료만 인정) 
+  - 링크 및 시험 문제는 당일 오후 2시 25분에 블랙보드의 이메일 기능을 이용하여 전송
+  - 기말고사 제출 방식
+    - 시험이 종료되는 5시 30분 시점에서 답안지(A4 단면)를 페이지별로 휴대폰으로 촬영하여 담당교수 이메일(pilsung_kang@korea.ac.kr로 전송 (촬영 및 발송시간 고려하여 이메일 발송시간 기준 5시 35분까지 인정)
+    - 12월 25일(금) 자정까지 Cheating Sheet와 답안지 원본을 스테이플러로 결합하여 담당교수 연구실로 제출(창의관 801A호, 부재중일 경우 문 아래로 밀어넣기)
+
 * Syllabus ([Document](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/2020_2_Business%20Analytics.pdf
 ), [Slide](https://github.com/pilsung-kang/Business-Analytics-IME654-/blob/master/00_Syllabus.pdf), [Video](https://www.youtube.com/watch?v=HWdauwh1LuU&list=PLetSlH8YjIfWMdw9AuLR5ybkVvGcoG2EW&index=1))
 * [Tutorial resources (2015)](https://drive.google.com/open?id=0B0tdfxikEBvtS2hpY3NtMFBfanM)
